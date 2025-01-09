@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Drowsiness_detection
 =======
 "# Drowsiness-Detection" 
@@ -15,3 +16,6 @@ State Detector-Detects the state using trained Deep Learning ML model.
 
 Alert Manager-Receives the response from state detector and broadcasts the necessary alerts as per level of seriousness.
 >>>>>>> d8770c95 (Update README.md)
+=======
+# Drowsiness_detection
+>>>>>>> 92f8a6af37e19d2e7143890e50d8fa1400ebc82e
